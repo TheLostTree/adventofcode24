@@ -1,3 +1,7 @@
 #debug print files
 *.log
+#aoc input files
 input.txt
+
+#vscode editor files
+.vscode
