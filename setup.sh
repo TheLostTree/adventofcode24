@@ -18,5 +18,5 @@ touch input.txt
 touch test.txt
 
 
-code main.cpp input.txt test.txt
+code .
 echo "Day $1 setup complete"
